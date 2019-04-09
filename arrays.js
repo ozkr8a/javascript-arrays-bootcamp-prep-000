@@ -28,4 +28,17 @@ function accessElementInArray(array, index){
   return array[index]
 }
 
-function 
+function destructivelyRemoveElementFromBeginningOfArray(array){
+  array.slice(1)
+}
+
+function removeElementFromBeginningOfArray(array){
+  
+}
+
+
+
+
+
+
+
